@@ -1,0 +1,116 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+xadrez
+main
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Core dumps
+core
+core.*
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build directories
+build/
+bin/
+obj/
+dist/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Archives
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+# Documentation generated files
+docs/html/
+docs/latex/
+*.pdf
+*.aux
+*.toc
+
+# Test coverage files
+*.gcov
+*.gcda
+*.gcno
+coverage/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+!src/Makefile
+!Makefile
+
+# Autotools
+config.h
+config.log
+config.status
+configure
+Makefile.in
+aclocal.m4
+autom4te.cache/
+compile
+depcomp
+install-sh
+missing
+
+# Valgrind
+*.valgrind
+
+# Memory leak detection
+*.leak
+
+# Editor specific
+*.rej
+*.orig
+
+# Package files
+*.deb
+*.rpm
