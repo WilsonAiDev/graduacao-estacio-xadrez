@@ -14,7 +14,8 @@ typedef enum {
     VAZIO = 0,
     TORRE = 1,
     BISPO = 2,
-    RAINHA = 3
+    RAINHA = 3,
+    CAVALO = 4
 } TipoPeca;
 
 // Estrutura para posição no tabuleiro
